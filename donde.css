@@ -1,0 +1,19 @@
+tr{
+    background-color: rgb(1, 71, 1);
+    color: greenyellow;
+}
+
+#fila1{
+    background-color: greenyellow;
+    color: black;
+}
+
+#fila2{
+    background-color: green;
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
