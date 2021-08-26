@@ -1,0 +1,39 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(250, 250, 151);
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 50px;
+  }
+  th, td{
+      padding: 5px;
+      text-align: left;
+      border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  #t2{
+    background-color: rgb(250, 250, 151);
+  }
+
+  #container{
+      background: url(/UD27/parquenatural/imagenes/panoramica.jpg);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  #div1{
+      width: 500px;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  body{
+    justify-items: center;
+  }
