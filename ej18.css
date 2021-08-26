@@ -1,0 +1,24 @@
+body{
+    width: 600px;
+    height: 600px;
+}
+
+div{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background: url("../imagenes/f01.png") left bottom repeat-x, 
+    url("../imagenes/f02.png") left bottom no-repeat,
+    url("../imagenes/f03.png") left top repeat-x;
+    background-color: skyblue;
+}
+
+.d1{
+    width: 100px;
+    height: 100px;
+}
+
+.d2{
+    width: 400px;
+    height: 400px;
+}
